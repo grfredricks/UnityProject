@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{B529514F-DDD7-BC48-57ED-038B963FBB90}|">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="e64262d9-0c9f-4623-9db5-8e416fdb1f35" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/PlayerBlock.cs">
+    <Files>
+      <File FileName="Assets/PlayerBlock.cs" Line="57" Column="1" />
+      <File FileName="Assets/Arrow.cs" />
+      <File FileName="Assets/AudioManager.cs" Line="30" Column="10" />
+      <File FileName="Assets/PlayerAttack.cs" Line="90" Column="14" />
+      <File FileName="Assets/ArrowSpawner.cs" Line="30" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FRProject" expanded="True">
+            <Node name="Assets" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

@@ -4,7 +4,7 @@ README FOR BARBARIC BULWARK
  An action-packed survival game where you play as a lone bandit defending against waves of dark enemies and flying arrows. 
  Use quick reflexes to strike enemies and block arrows, aiming to survive as long as possible.
 
-# FEATURES: 
+#FEATURES: 
 Endless waves of enemies that increases over time
 - One hit kill system used for both enemies and the player
 - High score tracking to record the most enemies you’ve slain in a run
